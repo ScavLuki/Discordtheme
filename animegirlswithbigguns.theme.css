@@ -31,11 +31,11 @@
   --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
   --home-button-size: cover;
   --home-button-position: center;
-  --serverlist-brightness: 0.3;
-  --left-brightness: 0.3;
-  --middle-brightness: 0.3;
+  --serverlist-brightness: 0.5;
+  --left-brightness: 0.5;
+  --middle-brightness: 0.5;
   --right-brightness: 0;
-  --overlay-brightness: 0.3;
+  --overlay-brightness: 0.6;
   --gradient-primary: 144,133,100;
   --gradient-secondary: 92,82,53;
   --link-colour: #00B8FF;
